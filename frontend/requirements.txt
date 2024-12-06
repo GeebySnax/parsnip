@@ -6,5 +6,5 @@ cachelib
 
 # Flask Framework
 flask
-flask-wtf
+flask-wtf<3.2.0.
 Flask-Session
